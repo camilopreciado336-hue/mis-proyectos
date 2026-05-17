@@ -1,0 +1,5 @@
+ nombre : Camilo 
+ programa: ingenieria de sistemas 
+ lenguaje elejido: python 
+ proyecto: programa basico de calculos 
+ 
